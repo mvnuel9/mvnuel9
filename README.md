@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Luck-Emmanuel&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Junior%20Fullstack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Django+%2B+SvelteKit;Flutter+Mobile+Developer;Ivorian+Coder+%F0%9F%87%A8%F0%9F%87%AE;Building+things+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## 👋 À propos de moi
 
-Je suis développeur **full-stack junior** basé à Abidjan, passionné par les applications web modernes et le développement mobile cross-platform. J'aime construire des produits complets et soignés, du backend jusqu'à l'interface utilisateur.
+Je suis développeur **full-stack junior**, passionné par les applications web modernes et le développement mobile cross-platform. J'aime construire des produits complets et soignés, du backend jusqu'à l'interface utilisateur.
 
 - 🔧 **Backend** → Django REST Framework, authentification JWT, PostgreSQL
 - 🎨 **Frontend** → SvelteKit, TypeScript, Vite
