@@ -1,30 +1,32 @@
 <div align="center">
 
-# Salut, moi c'est Luck-Emmanuel 🚀
+# Salut, moi c’est Luck-Emmanuel
 
-**Junior Fullstack Developer** · Ivorian Coder · Passionné par les interfaces propres et les architectures solides
+**Développeur full-stack junior** · Côte d’Ivoire · Interfaces soignées, bases de code maintenables
 
 [![GitHub](https://img.shields.io/badge/GitHub-mvnuel9-181717?style=flat-square&logo=github)](https://github.com/mvnuel9)
-[![Website](https://img.shields.io/badge/Portfolio-mvnuel.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://mvnuel.com)
+[![Site](https://img.shields.io/badge/Portfolio-mvnuel.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://mvnuel.com)
 [![Email](https://img.shields.io/badge/Email-luckemmanuel09@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luckemmanuel09@gmail.com)
-[![Location](https://img.shields.io/badge/Abidjan-Côte%20d'Ivoire-F77F00?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Localisation](https://img.shields.io/badge/Abidjan-Côte%20d%27Ivoire-F77F00?style=flat-square&logo=googlemaps&logoColor=white)](https://www.openstreetmap.org/relation/192779)
 
 </div>
 
 ---
 
-## À propos de moi
+## À propos
 
-Je suis développeur full-stack junior avec une appétence particulière pour les applications web modernes et le développement mobile cross-platform. J'aime construire des produits complets, du backend jusqu'à l'interface utilisateur.
+Je construis des **applications web** et j’explore le **mobile cross-platform**. J’aime enchaîner du **backend** (APIs, données, auth) jusqu’au **frontend** (UX, performance, TypeScript), avec une attention portée à la clarté du code et à l’expérience utilisateur.
 
-- **Backend** → Django REST Framework, authentification JWT, PostgreSQL
-- **Frontend** → SvelteKit, TypeScript, Vite
-- **Mobile** → Flutter / Dart
-- **DevOps/Scripts** → Python, Bash, Linux
+| Domaine | Technologies |
+|--------|----------------|
+| **Backend** | Django REST Framework, JWT, PostgreSQL |
+| **Frontend** | SvelteKit, TypeScript, Vite |
+| **Mobile** | Flutter, Dart |
+| **Outils** | Python, Bash, Linux |
 
 ---
 
-## Stack technique
+## Stack
 
 <div align="center">
 
@@ -57,8 +59,8 @@ Je suis développeur full-stack junior avec une appétence particulière pour le
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=mvnuel9&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvnuel9&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
+![Statistiques GitHub de mvnuel9](https://github-readme-stats.vercel.app/api?username=mvnuel9&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=mvnuel9&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
 
 </div>
 
@@ -66,6 +68,6 @@ Je suis développeur full-stack junior avec une appétence particulière pour le
 
 <div align="center">
 
-*"Build things that matter."*
+*Build things that matter.*
 
 </div>
