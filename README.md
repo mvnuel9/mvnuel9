@@ -23,7 +23,6 @@ Je suis développeur **full-stack junior**, passionné par les applications web 
 - 🎨 **Frontend** → SvelteKit, TypeScript, Vite
 - 📱 **Mobile** → Flutter / Dart
 - 🛠️ **DevOps / Scripts** → Python, Bash, Linux
-- 🌱 **En apprentissage** → Docker, CI/CD, architectures micro-services
 - ⚡ **Fun fact** → Je pense que le code propre, c'est du respect envers les autres développeurs
 
 ---
@@ -95,6 +94,6 @@ Tu as un projet en tête, une opportunité ou juste envie d'échanger ? N'hésit
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
-*"Build things that matter."*
+*"Au delà des limites, plus ULTRA 🚀"*
 
 </div>
