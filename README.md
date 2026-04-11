@@ -2,7 +2,7 @@
 
 <img src="./header.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Développeur+FullStack;Python+%7C+Django+%7C+SvelteKit;Flutter+%7C+TypeScript+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Développeur+FullStack+Junior)](https://git.io/typing-svg)
 
 <br/>
 
