@@ -1,0 +1,64 @@
+<svg width="100%" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#090D18"/>
+      <stop offset="45%"  stop-color="#13193A"/>
+      <stop offset="100%" stop-color="#2B1A60"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#F0C060"/>
+      <stop offset="55%"  stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="rgba(255,255,255,0.045)" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+  <!-- Background -->
+  <rect width="800" height="240" fill="url(#bgGrad)"/>
+  <!-- Grid overlay -->
+  <rect width="800" height="240" fill="url(#grid)"/>
+  <!-- Subtle glow behind text -->
+  <ellipse cx="400" cy="130" rx="280" ry="90" fill="#4F3FA0" opacity="0.18"/>
+  <!-- Decorative stars -->
+  <circle cx="55"  cy="28"  r="1.4" fill="white" opacity="0.45"/>
+  <circle cx="160" cy="55"  r="1"   fill="white" opacity="0.35"/>
+  <circle cx="290" cy="18"  r="1.8" fill="white" opacity="0.3"/>
+  <circle cx="490" cy="35"  r="1.4" fill="white" opacity="0.45"/>
+  <circle cx="640" cy="14"  r="1"   fill="white" opacity="0.35"/>
+  <circle cx="740" cy="48"  r="1.8" fill="white" opacity="0.3"/>
+  <circle cx="710" cy="85"  r="1"   fill="white" opacity="0.25"/>
+  <circle cx="115" cy="95"  r="1.2" fill="white" opacity="0.2"/>
+  <circle cx="550" cy="70"  r="1"   fill="white" opacity="0.3"/>
+  <circle cx="380" cy="210" r="1.2" fill="white" opacity="0.2"/>
+  <circle cx="200" cy="200" r="1"   fill="white" opacity="0.15"/>
+  <circle cx="600" cy="205" r="1.5" fill="white" opacity="0.2"/>
+  <!-- "Salut, Je suis" -->
+  <text
+    x="400" y="82"
+    font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="21"
+    font-weight="400"
+    fill="rgba(255,255,255,0.82)"
+    text-anchor="middle"
+    letter-spacing="0.5"
+  >Salut &#x1F44B; Je suis</text>
+  <!-- "Luck-Emmanuel Koffi" -->
+  <text
+    x="400" y="147"
+    font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="45"
+    font-weight="700"
+    fill="white"
+    text-anchor="middle"
+  >Luck-Emmanuel Koffi</text>
+  <!-- "Fullstack Developer" gradient -->
+  <text
+    x="400" y="207"
+    font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+    font-size="55"
+    font-weight="700"
+    fill="url(#textGrad)"
+    text-anchor="middle"
+  >Développeur FullStack</text>
+</svg>
