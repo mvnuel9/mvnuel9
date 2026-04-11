@@ -17,13 +17,12 @@
 
 ## 👋 À propos de moi
 
-Je suis développeur **full-stack junior**, passionné par les applications web modernes et le développement mobile cross-platform. J'aime construire des produits complets et soignés, du backend jusqu'à l'interface utilisateur.
+Je suis développeur **full-stack**, passionné par les applications web modernes et le développement mobile cross-platform. J'aime construire des produits complets, soignés mais surtout intuitif, du backend jusqu'à l'interface utilisateur.
 
 - 🔧 **Backend** → Django REST Framework, authentification JWT, PostgreSQL
 - 🎨 **Frontend** → SvelteKit, TypeScript, Vite
 - 📱 **Mobile** → Flutter / Dart
 - 🛠️ **DevOps / Scripts** → Python, Bash, Linux
-- ⚡ **Fun fact** → Je pense que le code propre, c'est du respect envers les autres développeurs
 
 ---
 
@@ -34,12 +33,11 @@ Je suis développeur **full-stack junior**, passionné par les applications web 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Frontend
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-FF3E00?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -81,7 +79,7 @@ Je suis développeur **full-stack junior**, passionné par les applications web 
 
 <div align="center">
 
-Tu as un projet en tête, une opportunité ou juste envie d'échanger ? N'hésite pas !
+Vous avez un projet en tête, une opportunité ou juste envie d'échanger ? N'hésitez pas !
 
 [![Portfolio](https://img.shields.io/badge/Mon%20Portfolio-mvnuel.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mvnuel.com)
 [![Email](https://img.shields.io/badge/M'écrire-luckemmanuel09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckemmanuel09@gmail.com)
@@ -91,8 +89,6 @@ Tu as un projet en tête, une opportunité ou juste envie d'échanger ? N'hésit
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
 *"Au delà des limites, plus ULTRA 🚀"*
 
