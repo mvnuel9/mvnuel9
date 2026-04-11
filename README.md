@@ -37,7 +37,7 @@ Je suis développeur **full-stack**, passionné par les applications web moderne
 
 ### Frontend
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/React-FF3E00?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
