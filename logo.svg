@@ -1,0 +1,58 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!--
+    MVNUEL — Monogram
+
+    Concept :
+    - M = Mvnuel
+    - La diagonale centrale évoque une trajectoire / un flux
+    - Forme géométrique pensée pour fonctionner en petit format
+  -->
+
+  <rect
+    width="64"
+    height="64"
+    rx="16"
+    fill="#0B0D0F"
+  />
+
+  <!-- M -->
+  <path
+    d="
+      M16 44
+      V20
+      H21
+      L32 34
+      L43 20
+      H48
+      V44
+      H42
+      V29
+      L34.5 39
+      H29.5
+      L22 29
+      V44
+      H16
+      Z
+    "
+    fill="#F1F3F5"
+  />
+
+  <!-- Accent / slash -->
+  <path
+    d="
+      M35.5 20
+      H41
+      L31.5 44
+      H26
+      L35.5 20
+      Z
+    "
+    fill="#B8FF5A"
+  />
+</svg>
