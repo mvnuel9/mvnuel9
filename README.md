@@ -89,10 +89,6 @@ produit, ça m'intéresse.
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mvnuel9&bg_color=0B0D0F&color=B8FF5A&line=B8FF5A&point=F1F3F5&area=true&area_color=B8FF5A&hide_border=true)
 
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mvnuel9&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)
-
 </div>
 
 ---
