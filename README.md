@@ -116,6 +116,6 @@ Vous avez un projet en tête, une opportunité ou juste envie d'échanger ? N'h�
 
 *"Au delà des limites, plus ULTRA 🚀"*
 
-<sub>© 2026 Luck-Emmanuel Koffi — construit avec curiosité et beaucoup de café ☕</sub>
+<sub>© 2026 Luck-Emmanuel Koffi</sub>
 
 </div>
